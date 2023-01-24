@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Varun Ahlawat (@yup-VARUN)
 - 👀 I’m interested in Physics and Computer Science
 - 🌱 I’m currently learning CS50X, Data Science & Analytics, Web Development
-- 💞️ I’m looking to collaborate on (NOT DECIDED YET)
+- 💞️ I’m looking to collaborate in Machine Learning & web development Project
 - 📫 To reach me use the my email address ahlawatvarun312@gmail.com
 
 <!---
