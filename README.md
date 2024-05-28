@@ -12,4 +12,6 @@ https://github.com/rocket-tech-gsu/HPR_LVL1.git
 - 📫 To reach me use my email address ahlawatvarun312@gmail.com, well I'm bad at replying to emails, but I use hella discord.
   - But if you really want to reach me FTL then use my work email – vahlawat1@student.gsu.edu
 --------
-### Let's study some physics now that you're on my profile!
+<!---
+ ### Let's study some physics now that you're on my profile! 
+ -->
