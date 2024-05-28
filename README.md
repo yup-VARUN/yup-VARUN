@@ -1,6 +1,5 @@
-- 👋 Hi, I’m **Varun Ahlawat**. I'm studying Computer Science & Physics at `not an ivy league`.
+- Hi there nice to see you here, my name is **Varun Ahlawat**. I'm currently doing bachelors in two majors, Computer Science & Physics @GeorgiaStateUniversity.
   - $E \neq mc^2$
-  - $E = \sqrt{(mc^2)^2+(pc^2)^2}$
 - 👀 I’m interested in Computer Science and Physics. `(Physics > GF)` but `(CS < GF)`!
 - 🚀 I hate when someone uses this EMOJI FOR NO DAMN REASON! btw `I make rockets`, because it's challenging AF!
 - 🌱 I’ve learned Data Science & analytics, full stack web development, machine learning, artificial intelligence(NLP, ANN, RNN, LSTMs, attention and positional encoding(in simpler words–transformers)), and embedded programming.
@@ -9,6 +8,7 @@
 ``` bash
 https://github.com/rocket-tech-gsu/HPR_LVL1.git
 ```
+- $E = \sqrt{(mc^2)^2+(pc^2)^2}$
 - 📫 To reach me use my email address ahlawatvarun312@gmail.com, well I'm bad at replying to emails, but I use hella discord.
   - But if you really want to reach me FTL then use my work email – vahlawat1@student.gsu.edu
 --------
