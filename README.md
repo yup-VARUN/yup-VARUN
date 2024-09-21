@@ -1,5 +1,6 @@
 - Hi there nice to see you here, my name is **Varun Ahlawat**. I'm currently doing bachelors in two majors, Computer Science & Physics @GeorgiaStateUniversity.
-  - $E \neq m_{o}c^2$ Where m_{o} is the rest mass of matter.
+  - $E \neq m_{o}c^2$
+    - Where m_{o} is the rest mass of matter.
 - 👀 I’m interested in Computer Science and Physics. `(Physics > GF)` but `(CS < GF)`!
 - 🚀 I hate when someone uses this EMOJI FOR NO DAMN REASON! btw `I make rockets`, because it's challenging AF!
 - 🌱 I’ve learned Data Science & analytics, full stack web development, machine learning, artificial intelligence(NLP, ANN, RNN, LSTMs, attention and positional encoding(in simpler words–transformers)), and embedded programming.
