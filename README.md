@@ -5,6 +5,7 @@
 - 🚀 I hate when someone uses this EMOJI FOR NO DAMN REASON! btw `I make rockets`, because it's challenging AF!
 - 🌱 I’ve learned Data Science & analytics, full stack web development, machine learning, artificial intelligence(NLP, ANN, RNN, LSTMs, attention and positional encoding(in simpler words–transformers)), and embedded programming.
 - I'm down to collaborate on impactful projects that truly can add some value to our civilization.
+- I just built a state-of-the-art RAG(retrieval augmented generation) pipeline application called DiagnAI. I am still working on perfecting it out and designing a custom evaluation pipeline for it! I'll be super proud of it once I deploy it!
 - This is what me and my organization, Rocket Technologies GSU, started working on:
 ``` bash
 https://github.com/rocket-tech-gsu/HPR_LVL1.git
