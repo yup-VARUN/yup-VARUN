@@ -17,10 +17,11 @@ https://github.com/rocket-tech-gsu/HPR_LVL1.git
 - 📫 To reach me use my email address ahlawatvarun312@gmail.com, well I'm bad at replying to emails, but I use hella discord.
   - But if you really want to reach me FTL then use my work email – vahlawat1@student.gsu.edu
 --------
-Crazy Academic Papers that I've read:
+Academic Papers Read:
 - Attention is all you need.
 - Scaling laws by openAI.
 - Training llms(llama) by Meta.
+- Siamese architecture, Diffusion Models, and some Retrieval stuff...
 <!---
  ### Let's study some physics now that you're on my profile! 
  -->
