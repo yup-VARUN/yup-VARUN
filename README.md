@@ -3,9 +3,9 @@ I'm down to collaborate on impactful projects that truly can add some value to o
 Hi, nice to see you here! I'm **Varun Ahlawat**. Currently doing bachelors' in two majors: Computer Science & Physics @GeorgiaStateUniversity.
 
 - I just built a state-of-the-art RAG(retrieval augmented generation) pipeline application called DiagnAI. I am still working on perfecting it out and designing a custom evaluation pipeline for it! I'll be proud of it once finished deployment!
-- I'm the president of , Rocket Technologies GSU, started working on:
-``` bash
-https://github.com/rocket-tech-gsu/HPR_LVL1.git
+- I'm the president of , Rocket Technologies GSU. Building state-of-the-art Actor Critic Reinforcement Learning based Model Predictive Control System package from scratch including hardware :
+```
+https://github.com/rocket-tech-gsu/GNC_to_the_moon
 ```
   - $E \neq m_{o}c^2$
     - Where $$m_{o}$$ is the rest mass of matter.
