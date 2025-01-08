@@ -1,4 +1,5 @@
-I'm down to collaborate on impactful projects that truly can add some value to our civilization.
+# Who am I?
+I know systems engineering. I fully understand distributed compute infrastructure on which the entire cloud compute is built upon. I'm down to collaborate on impactful projects that truly can add some value to our civilization. 
 
 Hi, nice to see you here! I'm **Varun Ahlawat**. Currently doing bachelors' in two majors: Computer Science & Physics @GeorgiaStateUniversity.
 
@@ -16,7 +17,7 @@ https://github.com/rocket-tech-gsu/GNC_to_the_moon
 - 📫 To reach me use my email address ahlawatvarun312@gmail.com, well I'm bad at replying to emails, but I use hella discord.
   - But if you really want to reach me FTL then use my work email – vahlawat1@student.gsu.edu
 --------
-Academic Papers Read:
+### Academic Papers Read:
 - Attention is all you need.
 - Scaling laws by openAI.
 - Training llms(llama) by Meta.
@@ -24,3 +25,10 @@ Academic Papers Read:
 <!---
  ### Let's study some physics now that you're on my profile! 
  -->
+--------
+### Books Read Recently:
+- Designing Data Intensive Applications by Martin Kleppmann
+- The Art of Scalaibility by Martin L. Abbott and Michael T. Fisher
+- Infrastructure as Code by Kief Morris
+- Kubernetes Up and Running by Kelsey Hightower, Brendan Burns, and Joe Beda
+- System Design Interview-Part 1 by Alex Xu
