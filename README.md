@@ -31,4 +31,3 @@ https://github.com/rocket-tech-gsu/GNC_to_the_moon
 - The Art of Scalaibility by Martin L. Abbott and Michael T. Fisher
 - Infrastructure as Code by Kief Morris
 - Kubernetes Up and Running by Kelsey Hightower, Brendan Burns, and Joe Beda
-- System Design Interview-Part 1 by Alex Xu
