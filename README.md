@@ -20,7 +20,7 @@ https://github.com/rocket-tech-gsu/GNC_to_the_moon
 ### Academic Papers Read:
 - Attention is all you need.
 - Scaling laws by openAI.
-- Training llms(llama) by Meta.
+- Continually Pre-Training LLMs(llama) by Meta.
 - Siamese architecture, Diffusion Models, and some Retrieval stuff...
 <!---
  ### Let's study some physics now that you're on my profile! 
