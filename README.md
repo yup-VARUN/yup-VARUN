@@ -18,6 +18,7 @@ https://github.com/rocket-tech-gsu/GNC_to_the_moon
   - But if you really want to reach me FTL then use my work email – vahlawat1@student.gsu.edu
 --------
 ### Academic Papers Read:
+- Titans: Learning to Memorize at Test Time
 - Attention is all you need.
 - Scaling laws by openAI.
 - Continually Pre-Training LLMs(llama) by Meta.
@@ -27,7 +28,6 @@ https://github.com/rocket-tech-gsu/GNC_to_the_moon
  -->
 --------
 ### Books Read Recently:
-- Titans: Learning to Memorize at Test Time
 - Designing Data Intensive Applications by Martin Kleppmann
 - The Art of Scalaibility by Martin L. Abbott and Michael T. Fisher
 - Infrastructure as Code by Kief Morris
