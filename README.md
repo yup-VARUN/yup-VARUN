@@ -18,10 +18,10 @@ https://github.com/rocket-tech-gsu/GNC_to_the_moon
   - But if you really want to reach me FTL then use my work email – vahlawat1@student.gsu.edu
 --------
 ### Academic Papers Read:
-- Titans: Learning to Memorize at Test Time
-- Attention is all you need.
-- Scaling laws by openAI.
-- Continually Pre-Training LLMs(llama) by Meta.
+- [Titans: Learning to Memorize at Test Time](https://arxiv.org/pdf/2501.00663v1)
+- [Attention is all you need](https://arxiv.org/pdf/1706.03762)
+- [Scaling laws for Neural Language Models](https://arxiv.org/pdf/2001.08361)
+- [Simple and Scalable Strategies to Continually Pre-Train LLMs](https://arxiv.org/pdf/2403.08763)
 - Siamese architecture, Diffusion Models, and some Retrieval stuff...
 <!---
  ### Let's study some physics now that you're on my profile! 
