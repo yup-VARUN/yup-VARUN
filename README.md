@@ -27,6 +27,7 @@ https://github.com/rocket-tech-gsu/GNC_to_the_moon
  -->
 --------
 ### Books Read Recently:
+- Titans: Learning to Memorize at Test Time
 - Designing Data Intensive Applications by Martin Kleppmann
 - The Art of Scalaibility by Martin L. Abbott and Michael T. Fisher
 - Infrastructure as Code by Kief Morris
