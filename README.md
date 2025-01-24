@@ -22,7 +22,7 @@ https://github.com/rocket-tech-gsu/GNC_to_the_moon
 - [Attention is all you need](https://arxiv.org/pdf/1706.03762)
 - [Scaling laws for Neural Language Models](https://arxiv.org/pdf/2001.08361)
 - [Simple and Scalable Strategies to Continually Pre-Train LLMs](https://arxiv.org/pdf/2403.08763)
-- Siamese architecture, Diffusion Models, and some Retrieval stuff...
+- Siamese architecture, Diffusion Models, Graph RAG, CAG...
 <!---
  ### Let's study some physics now that you're on my profile! 
  -->
