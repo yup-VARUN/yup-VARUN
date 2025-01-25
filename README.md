@@ -8,12 +8,7 @@ Nice to see you here! Currently I'm doing bachelors' in two majors: Computer Sci
 ```
 https://github.com/rocket-tech-gsu/GNC_to_the_moon
 ```
-  - $E \neq m_{o}c^2$
-    - Where $$m_{o}$$ is the rest mass of matter.
-- 👀 I’m interested in Computer Science and Physics. `(Physics > GF)` but `(GF > CS)`!
-- `I make rockets`, because it's challenging 🚀
-- I’ve done some industrial work on Data Science & analytics. I'm well versed with full stack web development, machine learning, AI or as the cool kids call it "Deep Learning" (NLP, RNN, LSTMs, attention and positional encoding(transformers)). I also have extensive experience with embedded systems programming and more...
-- $E = \sqrt{(m_{o}c^2)^2+(pc^2)^2}$
+
 - 📫 To reach me use my email address ahlawatvarun312@gmail.com, well I'm bad at replying to emails, but I use hella discord.
   - But if you really want to reach me FTL then use my work email – vahlawat1@student.gsu.edu
 --------
@@ -27,8 +22,15 @@ https://github.com/rocket-tech-gsu/GNC_to_the_moon
  ### Let's study some physics now that you're on my profile! 
  -->
 --------
+<!---
 ### Books Read Recently:
 - Designing Data Intensive Applications by Martin Kleppmann
 - The Art of Scalaibility by Martin L. Abbott and Michael T. Fisher
 - Infrastructure as Code by Kief Morris
 - Kubernetes Up and Running by Kelsey Hightower, Brendan Burns, and Joe Beda
+  - $E \neq m_{o}c^2$
+    - Where $$m_{o}$$ is the rest mass of matter.
+- 👀 I’m interested in Computer Science and Physics. `(Physics > GF)` but `(GF > CS)`!
+- `I make rockets`, because it's challenging 🚀
+- I’ve done some industrial work on Data Science & analytics. I'm well versed with full stack web development, machine learning, AI or as the cool kids call it "Deep Learning" (NLP, RNN, LSTMs, attention and positional encoding(transformers)). I also have extensive experience with embedded systems programming and more...
+- $E = \sqrt{(m_{o}c^2)^2+(pc^2)^2}$ -->
