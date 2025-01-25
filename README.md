@@ -1,8 +1,8 @@
-# Who am I?
-I know systems engineering. I fully understand distributed compute infrastructure on which the entire cloud compute is built upon. I'm down to collaborate on impactful projects that truly can add some value to our civilization. 
+I'm **Varun Ahlawat**. I've built a good skillset in systems engineering. Lately, I've been reading research papers in the field of AI. I fully understand distributed compute infrastructure on which the entire modern cloud compute stands. I'm down to collaborate on impactful projects that truly can add some value to our civilization. 
 
-Hi, nice to see you here! I'm **Varun Ahlawat**. Currently doing bachelors' in two majors: Computer Science & Physics @GeorgiaStateUniversity.
+Nice to see you here! Currently I'm doing bachelors' in two majors: Computer Science & Physics.
 
+- As an official Research Intern, I am trying novel things in training neural networks from scratch on a tiny numerical dataset for simple classification for an industrial research project to enable bio markers testing just from Blood's FTIR spectroscopy for disease detection.
 - I just built a state-of-the-art RAG(retrieval augmented generation) pipeline application called DiagnAI. I am still working on perfecting it out and designing a custom evaluation pipeline for it! I'll be proud of it once finished deployment!
 - I'm the president of , Rocket Technologies GSU. Building state-of-the-art Actor Critic Reinforcement Learning based Model Predictive Control System package from scratch including hardware :
 ```
