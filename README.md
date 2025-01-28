@@ -17,7 +17,7 @@ https://github.com/rocket-tech-gsu/GNC_to_the_moon
 - [Attention is all you need](https://arxiv.org/pdf/1706.03762)
 - [Scaling laws for Neural Language Models](https://arxiv.org/pdf/2001.08361)
 - [Simple and Scalable Strategies to Continually Pre-Train LLMs](https://arxiv.org/pdf/2403.08763)
-- Graph RAG, CAG(Cache Augmented Generation), Siamese architecture, Diffusion Models, ...
+- [Few Shot Learning](https://arxiv.org/pdf/2203.04291), Graph RAG, CAG(Cache Augmented Generation), Siamese architecture, Diffusion Models, ...
 <!---
  ### Let's study some physics now that you're on my profile! 
  -->
