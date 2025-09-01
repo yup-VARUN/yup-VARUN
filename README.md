@@ -2,7 +2,7 @@
 
 I'm **Varun Ahlawat**. 
 
-Good at systems engineering. Gained highly techical leadership experience. Lately, I've been reading research papers in the field of AI. I do technical work, daily, on modern AI systems and distributed compute infrastructure on which the entire modern cloud compute stands. I'm finishing my bachelors' at `Georgia State University`(only a literal fool would judge me by that fact). I'm a double major, majoring in: Computer Science, Physics.
+Good at systems engineering. Gained highly techical leadership experience. Lately, I've been reading research papers in the field of AI. I do technical work, daily, on modern AI systems and distributed compute infrastructure on which the entire modern cloud compute stands. I'm finishing my bachelors' at `Georgia State University`. I'm a double major, majoring in: Computer Science, Physics.
 
 - As official Research Intern, I have developed novel extreme data augmentation technique for spectral multi class classification based upon spectral data. Motivation: Training larger CNNs on a very hard to record tiny numerical dataset for simple classification for an industrial research project to enable bio markers testing just from Blood's FTIR spectroscopy for disease detection.
 - I've built a state-of-the-art RAG(retrieval augmented generation) pipeline for personalized free medical application called DiagnAI(I've pivoted from it). Designed a custom evaluation pipeline for it! I'll be proud of it once finished deployment! It was very promising that I had to make the repo private :/
