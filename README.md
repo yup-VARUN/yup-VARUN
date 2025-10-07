@@ -17,6 +17,8 @@ https://github.com/rocket-tech-gsu/GNC_to_the_moon
   - To reach me FTL then use my work/study email – vahlawat1@student.gsu.edu
 --------
 ### Academic Papers Read:
+- [A Mathematical Theory of Communication](https://people.math.harvard.edu/~ctm/home/text/others/shannon/entropy/entropy.pdf)
+- [Continuous Thought Machine](https://arxiv.org/abs/2505.05522)
 - [Titans: Learning to Memorize at Test Time](https://arxiv.org/pdf/2501.00663v1)
 - [Attention is all you need](https://arxiv.org/pdf/1706.03762)
 - [Scaling laws for Neural Language Models](https://arxiv.org/pdf/2001.08361)
